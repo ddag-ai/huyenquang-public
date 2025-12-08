@@ -5,8 +5,39 @@
     "image": "https://images.unsplash.com/photo-1544367563-12123d832d34?q=80&w=2670&auto=format&fit=crop",
     "date": "19-22 JUNE 2025",
     "location": "Magnolia Grove Monastery",
-    "link": "#",
-    "pdfUrl": "https://raw.githubusercontent.com/ddag-ai/huyenquang-public/main/upcoming_events/event-002.pdf",
+    "link": "/event/event-002",
+    "description": "The Magnolia Training Camp 2025 is a special retreat for Buddhist Youth Scout leaders and young members. This immersive experience combines mindfulness practice, leadership training, and community building in the serene environment of Magnolia Grove Monastery.\n\nParticipants will engage in meditation sessions, dharma talks, team-building activities, and learn essential skills for leading youth programs with compassion and wisdom.",
+    "schedule": [
+        {
+            "time": "June 19, 2:00 PM",
+            "activity": "Registration and Check-in"
+        },
+        {
+            "time": "June 19, 4:00 PM",
+            "activity": "Opening Ceremony"
+        },
+        {
+            "time": "June 19, 6:00 PM",
+            "activity": "Dinner and Orientation"
+        },
+        {
+            "time": "June 20-21",
+            "activity": "Full day training sessions"
+        },
+        {
+            "time": "June 22, 10:00 AM",
+            "activity": "Closing Ceremony"
+        },
+        {
+            "time": "June 22, 12:00 PM",
+            "activity": "Departure"
+        }
+    ],
+    "registration": {
+        "deadline": "June 1, 2025",
+        "fee": "$150 (includes accommodation and meals)",
+        "contact": "training@huyenquang.org"
+    },
     "published": true,
     "order": 2
 }

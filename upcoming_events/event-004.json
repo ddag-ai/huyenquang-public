@@ -5,8 +5,8 @@
     "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2670&auto=format&fit=crop",
     "date": "2025",
     "location": "Test Location",
-    "link": "#",
-    "pdfUrl": "https://raw.githubusercontent.com/ddag-ai/huyenquang-public/main/upcoming_events/event-004.pdf",
+    "link": "/event/event-004",
+    "description": "This is a test event created to verify the functionality of the Show More button and the event detail page navigation.",
     "published": true,
     "order": 4
 }
