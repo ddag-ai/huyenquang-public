@@ -6,6 +6,7 @@
     "date": "2025",
     "location": "Test Location",
     "link": "#",
+    "pdfUrl": "https://raw.githubusercontent.com/ddag-ai/huyenquang-public/main/upcoming_events/event-004.pdf",
     "published": true,
     "order": 4
 }
