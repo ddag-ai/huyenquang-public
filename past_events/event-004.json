@@ -1,0 +1,11 @@
+{
+    "id": "event-004",
+    "title": "TEST EVENT FOR VERIFICATION",
+    "subtitle": "This is a test event to verify the Show More button",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2670&auto=format&fit=crop",
+    "date": "2025",
+    "location": "Test Location",
+    "link": "#",
+    "published": true,
+    "order": 4
+}
