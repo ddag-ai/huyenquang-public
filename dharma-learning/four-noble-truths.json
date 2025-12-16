@@ -7,7 +7,8 @@
     "date": "Fundamental Teaching",
     "location": "Dharma Class",
     "description": "The Four Noble Truths (Tứ Diệu Đế) are the foundational teachings of Buddhism, outlining the nature of suffering (Dukkha), its cause (Samudaya), its cessation (Nirodha), and the path leading to its cessation (Magga - The Noble Eightfold Path). These truths provide the framework for understanding the human condition and finding liberation.",
+    "pdfUrl": "https://raw.githubusercontent.com/ddag-ai/huyenquang-public/main/dharma-learning/four-noble-truths.pdf",
     "published": true,
     "order": 1,
-    "link": "#"
+    "link": "/dharma-learning/four-noble-truths"
 }
