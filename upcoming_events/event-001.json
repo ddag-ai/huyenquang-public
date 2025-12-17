@@ -1,12 +1,12 @@
 {
     "id": "event-001",
-    "title": "Donation event testing",
-    "subtitle": "Donation event testing",
+    "title": "Donation Testing",
+    "subtitle": "Donation Testing",
     "image": "https://images.unsplash.com/photo-1593113598332-cd288d649433?q=80&w=2670&auto=format&fit=crop",
     "date": "2025",
     "link": "/event/event-001",
     "pdfUrl": "https://raw.githubusercontent.com/ddag-ai/huyenquang-public/main/upcoming_events/event-001.pdf",
-    "description": "Join us for our annual fundraiser supporting the Buddhist Youth Association (BYA) in Vietnam. The Tâm Phùng - Đoàn Thị Bướm Scholarship Fund provides educational opportunities for underprivileged students who demonstrate academic excellence and commitment to Buddhist values.\n\nThis event brings together our community to support the next generation of Buddhist youth leaders in Vietnam. Your generous contributions will help provide scholarships, educational materials, and mentorship programs.",
+    "description": "This is description",
     "registration": {
         "deadline": "December 31, 2025",
         "contact": "contact@huyenquang.org"
